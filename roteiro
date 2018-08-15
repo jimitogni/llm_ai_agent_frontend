@@ -1,0 +1,22 @@
+roteiro
+
+criar app no google dev
+habiliar no firebase
+copiar os ids do face no fire
+copiar a url do fire no face
+ionic cordova plugin add cordova-plugin-facebook4 --variable APP_ID="726987884307443" --variable APP_NAME="myApplication"
+npm install --save @ionic-native/facebook
+add ao app.module.ts
+  import { Facebook } from '@ionic-native/facebook'
+  Facebook no providers
+
+criar provider de auth
+
+instalar
+npm install firebase angularfire2 --save
+e importar
+import { AngularFireAuth } from 'angularfire2/auth';
+
+import { Facebook, FacebookLoginResponse } from '@ionic-native/facebook';
+
+import * as firebase from 'firebase/app';
