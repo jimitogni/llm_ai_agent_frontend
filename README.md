@@ -1,5 +1,3 @@
-# ionicLoginFace
+# llm_ai_agent_frontend
 
-Ionic utilizando APIs do google firebase e facebook para fazer login
-
-Ionic using google firebase and facebook APIs to login
+AI agent api restful to consume data from a LLM
